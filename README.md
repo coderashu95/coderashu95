@@ -13,8 +13,8 @@
 | **Programming** | Python, MySQL/ Oracle SQL Developer, C#, Unix, HTML/CSS, JavaScript |
 | **CI/CD Tools**  | Bitbucket, Gitlab |
 | **Big Data Tools** | Apache PySpark, Kafka, MongoDB |
-| **Data Warehousing, Governance & Orchestration tools**        | Google BigQuery, Azure Data Lake, Amazon Redshift, Snowflake, Informatica PowerCenter, Dockers |
-| **Data Analytics and Visualization** | Tableau, Excel, Power BI, AWS S3, Azure Data Lake, Databricks, Google Analytics, Google Optimize, Amplitude, PrecisionTree @Risk, SFMC (Salesforce Marketing Cloud ), Adobe Marketo |
+| **Data Warehousing, Governance & Orchestration tools**        | Google BigQuery, Azure Data Lake, Amazon Redshift, AWS S3, Databricks, Snowflake, Informatica PowerCenter, Dockers |
+| **Data Analytics and Visualization** | Tableau, Excel, Power BI, Google Analytics, Google Optimize, Amplitude, PrecisionTree @Risk, SFMC (Salesforce Marketing Cloud ), Adobe Marketo |
 | **RPA & Test Automation**   | Selenium |
 | **Product design & executive presentation tools** | Figma, MS Visio, Canva, MS PowerPoint |
 | **Statistics & Methods**  | Hypotheisis Testing, Regression Analysis & Modelling, Random Forests, Decision Tree / XGBoost, Support Vector Machine (SVM), K-Means Clustering, K-nearest neighbors (KNN), ANN (Artificial Neural Networks), RLHF( Reinforcement learning via Human Feedback), Text Mining, Natural Language Processing (NLP) |
