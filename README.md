@@ -9,7 +9,7 @@
 
 | Category                      | Skills & Tools                                                          |
 |-------------------------------|-------------------------------------------------------------------------|
-| **Domain Expertise**  | Banking & Financial Services, Food & Beverage, E-Commerce, Ed-Tech, Energy & Utilities ERP|
+| **Domain Expertise**  | Banking & Financial Services, FinTech, Ed-Tech, Food & Beverage, E-Commerce, Energy & Utilities ERP|
 | **Programming** | Python, MySQL/ Oracle SQL Developer, C#, Unix, HTML/CSS, JavaScript |
 | **CI/CD Tools**  | Bitbucket, Gitlab |
 | **Big Data Tools** | Apache PySpark, Kafka, MongoDB |
