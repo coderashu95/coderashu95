@@ -10,6 +10,7 @@
 | Category                      | Skills & Tools                                                          |
 |-------------------------------|-------------------------------------------------------------------------|
 | **Programming**               | Python, MySQL/ Oracle SQL Developer, C#, HTML/CSS, JavaScript           |
+| **Domain Expertise**               | Banking & Financial Services, Food & Beverage, E-Commerce, Ed-Tech, Energy & Utilities ERP|
 | **Data Analytics and Visualization** | Tableau, Excel, Power BI, AWS S3, Amazon Redshift, Azure Data Lake, Databricks, Google Analytics, Google Optimize, Amplitude, Looker Studio, Snowflake, GCP Big Query, PrecisionTree @Risk, SFMC ( Salesforce Marketing Cloud ), Adobe Marketo |
 | **Design & Project Management Tools** | Jira, Microsoft Team Foundation Server, Figma, MS Visio                           |
 | **Statistics & Methods**      | Hypotheisis Test & Regression Analysis & Modelling, Random Forest, Decision Tree / XGBoost, Support Vector Machine (SVM), K-Means Clustering, K nearest neighbors (KNN), ANN (Artificial Neural Networks), RLHF( Reinforcement learning via Human Feedback), Text Mining, Natural Language Processing (NLP) |
