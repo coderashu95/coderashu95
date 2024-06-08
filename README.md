@@ -11,11 +11,11 @@
 |-------------------------------|-------------------------------------------------------------------------|
 | **Domain Expertise**  | Banking & Financial Services, Food & Beverage, E-Commerce, Ed-Tech, Energy & Utilities ERP|
 | **Programming** | Python, MySQL/ Oracle SQL Developer, C#, Unix, HTML/CSS, JavaScript |
-| **RPA & Test Automation**   | Selenium |
 | **CI/CD Tools**  | Bitbucket, Gitlab |
 | **Big Data Tools** | Apache PySpark, Kafka, MongoDB |
 | **Data Warehousing, Governance & Orchestration tools**        | Google BigQuery, Azure Data Lake, Amazon Redshift, Snowflake, Informatica PowerCenter, Dockers |
 | **Data Analytics and Visualization** | Tableau, Excel, Power BI, AWS S3, Azure Data Lake, Databricks, Google Analytics, Google Optimize, Amplitude, PrecisionTree @Risk, SFMC (Salesforce Marketing Cloud ), Adobe Marketo |
+| **RPA & Test Automation**   | Selenium |
 | **Mockup Design & Project Management Tools** | Jira, Microsoft Team Foundation Server, Figma, MS Visio, Canva 
 | **Statistics & Methods**  | Hypotheisis Testing, Regression Analysis & Modelling, Random Forests, Decision Tree / XGBoost, Support Vector Machine (SVM), K-Means Clustering, K-nearest neighbors (KNN), ANN (Artificial Neural Networks), RLHF( Reinforcement learning via Human Feedback), Text Mining, Natural Language Processing (NLP) |
 | **Project Management**  | Atlassian Suite (Jira, Confluence, Bitbucket), Google Suite, Sharepoint, Github |
