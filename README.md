@@ -1,6 +1,6 @@
 # Asutosh Mishra
 
-**Contact:** 623-284-4870  
+**Contact:** 480-791-9883  
 **Email:** [theashutoshmishra95@gmail.com](mailto:theashutoshmishra95@gmail.com)  
 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/ashutoshmishra03/)  
 **Location:** Tampa, Florida
@@ -10,15 +10,15 @@
 | Category                      | Skills & Tools                                                          |
 |-------------------------------|-------------------------------------------------------------------------|
 | **Programming**               | Python, MySQL/ Oracle SQL Developer, C#, HTML/CSS, JavaScript           |
-| **Data Analytics and Visualization** | Tableau, Excel, Power BI, AWS S3, Amazon Redshift, Google Analytics, Google Optimize, Looker Studio, Snowflake, GCP Big Query, PrecisionTree @Risk, Salesforce CRM & Marketing Cloud / Adobe Marketo |
+| **Data Analytics and Visualization** | Tableau, Excel, Power BI, AWS S3, Amazon Redshift, Azure Data Lake, Databricks, Google Analytics, Google Optimize, Amplitude, Looker Studio, Snowflake, GCP Big Query, PrecisionTree @Risk, SFMC ( Salesforce Marketing Cloud / Adobe Marketo )|
 | **Design & Project Management Tools** | Jira, Team Foundation Server, Figma, MS Visio                           |
-| **Statistics & Methods**      | Regression Models, Random Forest, Decision Tree / XGBoost, Statistical Modeling, Text Mining, Natural Language Processing |
-| **Project Management**        | Quip, Jira, GitHub, Scrum/ Agile Methodology, Google Suite              |
-| **Core Competencies**         | Data Analysis & Modelling, Generative AI (Llama2, BERT, Mistral LLM), Statistical Analysis, Descriptive, Predictive and Prescriptive Analytics, Data Mining, Data Visualization, Supervised/ Unsupervised Machine Learning, Program/ Product Management, Risk & Change Management, Technical documentation & Stakeholder communication |
+| **Statistics & Methods**      | Hypotheisis Test & Regression Analysis & Modelling, Random Forest, Decision Tree / XGBoost, Support Vector Machine, K-Means Clustering, K nearest neighbors (KNN), ANN (Artificial Neural Networks), Text Mining, Natural Language Processing (NLP) |
+| **Project Management**        | Atlassian Suite (Jira, Confluence, Bitbucket), GitHub, Scrum/ Agile Methodology, Google Suite              |
+| **Core Competencies**         | Statistical Data Analysis & Modelling, Market research & Competitive Analysis, Business Strategy, Generative AI (Llama2, BERT, Mistral LLM) integration & Deployment, Descriptive, Predictive and Prescriptive Analytics, AB testing, Data Mining, Data Visualization, Supervised/ Unsupervised Machine Learning, Program/ Product Management, Risk & Change Management, Technical documentation & Stakeholder communication |
 
 ## Professional Summary
-As a seasoned Business Data & Product professional, I have enhanced business operations through strategic data-driven insights and technology solutions at multinational corporations such as Citibank, BlackRock & CGI Group as well as early stage series A startups such as Stax.ai. My expertise in data visualization, predictive analytics, and strategic business planning is backed by a robust academic foundation from the National Institute of Technology, Silchar, India & MBA from Arizona State Univeristy in USA. I have led multiple initiatives that drove significant improvements in production efficiency, client satisfaction, and market growth through the adept use of analytical tools and methodologies. I am enthusiastic about connecting with professionals who share similar interests, exchanging insights, and pursuing collaborative opportunities with the innovative possibilities of in product management & growth space at the confluence of a concrete business purpose and data infrastructure.
+As a seasoned Business Data & Product professional, I have enhanced business operations through strategic data-driven insights and technology solutions at multinational corporations such as Citibank, BlackRock & CGI Group as well as early stage series A startups such as Stax.ai. My expertise in product management, data analytics & Gen-AI expertise, and strategic business planning & initiatives delivery is backed by a robust academic foundation from a B.Tech from esteemed National Institute of Technology, Silchar, India & an MBA from Arizona State Univeristy in USA. I have led multiple initiatives that drove significant improvements in process efficiency, client satisfaction, and market share & business critical KPI growth through the adept use of analytical tools and agile methodologies. I am enthusiastic about connecting with professionals who share similar interests, exchanging insights, and pursuing collaborative opportunities with the innovative possibilities of in product management & growth space at the confluence of a concrete business purpose and data infrastructure.
 
 ## Education
 Master of Business Administration (MBA), Arizona State University, USA (Aug 2021 – May 2023)
-Bachelor of Technology - Mechanical Engineering (B.Tech), NIT Silchar, India (Aug 2021 – May 2023)
+Bachelor of Technology - Mechanical Engineering (B.Tech), NIT Silchar, India (Aug 2013 – May 2017)
